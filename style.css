@@ -1,0 +1,70 @@
+#bio{
+    color:cyan;
+    background-color: green;
+    font-family:'Cinzel Decorative', cursive;
+    font-size:20px;
+}
+#welcome{
+    color:red;
+    font-family:Tahoma;
+    background-color: orange ;
+}
+.line{
+    
+    background-color:lightblue;
+    width:70px;
+    height:5px;
+    margin:8px auto;
+}
+.parallax-inner{
+    display:table-cell;
+    vertical-align: middle;
+}
+
+h2{
+    color:rgb(57, 255, 20) ;
+    font-family:Calibri;
+    font-size:50px;
+     
+}
+body{
+    padding-top: 100px;
+    margin:0px;
+    text-align: center;
+}
+img{
+    width:150px;
+    height:150px;
+    border-style: dotted;
+    border-radius: 20px;
+}
+.menu{
+position: fixed;
+background-color: white;
+width:100%;
+top: 0px;
+margin-top: 0px;
+z-index:10;
+}
+.links{
+    padding-top: 5px;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: Times New Roman;
+    font-size: 20px;
+    display:inline;
+}
+.links:hover{
+font-size:25px;
+text-decoration:underline;
+text-decoration-color:green;
+}
+
+#n1{
+  font-family:'Cinzel Decorative', cursive;
+}
+h3{
+    font-size:45px;
+    color:aqua;
+    font-family:Helvetica;
+}
